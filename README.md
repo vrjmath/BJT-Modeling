@@ -12,8 +12,6 @@ The case study focuses on modeling an **Bipolar Junction Transistors (BJT)** and
 
 python main.py 
 
----
-
 ## Output
 Running main.py trains the RNN model and computes MSE and NRMSE. Sample waveforms between true and predicted currents will be plotted.
 
