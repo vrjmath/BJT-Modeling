@@ -1,6 +1,6 @@
 # Data-Driven Compact Modeling of Bipolar Junction Transistors with Recurrent Neural Networks
 
-[Technical Report] (https://www.osti.gov/servlets/purl/1888718)
+[Technical Report](https://www.osti.gov/servlets/purl/1888718)
 
 ## Overview
 This project investigates the use of **discrete-time recurrent neural networks (DTRNNs)** as a data-driven alternative to traditional physics-based compact models for circuit simulation.  
